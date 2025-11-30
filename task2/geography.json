@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Самая длинная река в мире?",
+      "type": "single",
+      "answers": [
+        {"text": "Нил", "correct": true},
+        {"text": "Амазонка", "correct": false},
+        {"text": "Волга", "correct": false},
+        {"text": "Миссисипи", "correct": false}
+      ]
+    },
+    {
+      "question": "Какие страны находятся в Европе?",
+      "type": "multiple",
+      "answers": [
+        {"text": "Франция", "correct": true},
+        {"text": "Бразилия", "correct": false},
+        {"text": "Германия", "correct": true},
+        {"text": "Япония", "correct": false}
+      ]
+    },
+    {
+      "question": "Столица Австралии?",
+      "type": "single",
+      "answers": [
+        {"text": "Сидней", "correct": false},
+        {"text": "Канберра", "correct": true},
+        {"text": "Мельбурн", "correct": false},
+        {"text": "Перт", "correct": false}
+      ]
+    },
+    {
+      "question": "Какие океаны омывают Россию?",
+      "type": "multiple",
+      "answers": [
+        {"text": "Тихий океан", "correct": true},
+        {"text": "Атлантический океан", "correct": true},
+        {"text": "Индийский океан", "correct": false},
+        {"text": "Северный Ледовитый океан", "correct": true}
+      ]
+    },
+    {
+      "question": "Самая высокая гора в мире?",
+      "type": "single",
+      "answers": [
+        {"text": "Эверест", "correct": true},
+        {"text": "Килиманджаро", "correct": false},
+        {"text": "Монблан", "correct": false},
+        {"text": "Эльбрус", "correct": false}
+      ]
+    }
+  ]
+}

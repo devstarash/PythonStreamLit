@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Сколько хромосом у человека?",
+      "type": "single",
+      "answers": [
+        {"text": "46", "correct": true},
+        {"text": "23", "correct": false},
+        {"text": "48", "correct": false},
+        {"text": "52", "correct": false}
+      ]
+    },
+    {
+      "question": "Какие из этих органов относятся к пищеварительной системе?",
+      "type": "multiple",
+      "answers": [
+        {"text": "Желудок", "correct": true},
+        {"text": "Печень", "correct": true},
+        {"text": "Сердце", "correct": false},
+        {"text": "Тонкий кишечник", "correct": true}
+      ]
+    },
+    {
+      "question": "Что такое ДНК?",
+      "type": "single",
+      "answers": [
+        {"text": "Носитель генетической информации", "correct": true},
+        {"text": "Белок", "correct": false},
+        {"text": "Фермент", "correct": false},
+        {"text": "Гормон", "correct": false}
+      ]
+    },
+    {
+      "question": "Какие из этих организмов являются растениями?",
+      "type": "multiple",
+      "answers": [
+        {"text": "Дуб", "correct": true},
+        {"text": "Роза", "correct": true},
+        {"text": "Гриб", "correct": false},
+        {"text": "Кактус", "correct": true}
+      ]
+    },
+    {
+      "question": "Какой газ поглощают растения в процессе фотосинтеза?",
+      "type": "single",
+      "answers": [
+        {"text": "Углекислый газ", "correct": true},
+        {"text": "Кислород", "correct": false},
+        {"text": "Азот", "correct": false},
+        {"text": "Водород", "correct": false}
+      ]
+    }
+  ]
+}

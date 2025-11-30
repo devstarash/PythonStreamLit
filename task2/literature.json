@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Кто написал 'Войну и мир'?",
+      "type": "single",
+      "answers": [
+        {"text": "Лев Толстой", "correct": true},
+        {"text": "Федор Достоевский", "correct": false},
+        {"text": "Антон Чехов", "correct": false},
+        {"text": "Иван Тургенев", "correct": false}
+      ]
+    },
+    {
+      "question": "Какие произведения написал Александр Пушкин?",
+      "type": "multiple",
+      "answers": [
+        {"text": "Евгений Онегин", "correct": true},
+        {"text": "Преступление и наказание", "correct": false},
+        {"text": "Капитанская дочка", "correct": true},
+        {"text": "Руслан и Людмила", "correct": true}
+      ]
+    },
+    {
+      "question": "Какой жанр у 'Мертвых душ' Гоголя?",
+      "type": "single",
+      "answers": [
+        {"text": "Поэма", "correct": true},
+        {"text": "Роман", "correct": false},
+        {"text": "Повесть", "correct": false},
+        {"text": "Комедия", "correct": false}
+      ]
+    },
+    {
+      "question": "Какие из этих писателей являются русскими классиками?",
+      "type": "multiple",
+      "answers": [
+        {"text": "Чехов", "correct": true},
+        {"text": "Шекспир", "correct": false},
+        {"text": "Булгаков", "correct": true},
+        {"text": "Диккенс", "correct": false}
+      ]
+    },
+    {
+      "question": "Кто автор 'Тихого Дона'?",
+      "type": "single",
+      "answers": [
+        {"text": "Михаил Шолохов", "correct": true},
+        {"text": "Максим Горький", "correct": false},
+        {"text": "Алексей Толстой", "correct": false},
+        {"text": "Иван Бунин", "correct": false}
+      ]
+    },
+    {
+      "question": "Какие произведения относятся к фантастике?",
+      "type": "multiple",
+      "answers": [
+        {"text": "451° по Фаренгейту", "correct": true},
+        {"text": "1984", "correct": true},
+        {"text": "Анна Каренина", "correct": false},
+        {"text": "Солярис", "correct": true}
+      ]
+    }
+  ]
+}
